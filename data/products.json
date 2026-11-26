@@ -1,0 +1,36 @@
+[
+  {
+    "id": "one-day",
+    "name": "沿湾一日票",
+    "days": 1,
+    "adult_price": 120,
+    "child_discount": 0.5,
+    "stations": [
+      "港城",
+      "山湾",
+      "东洲"
+    ],
+    "excluded_train_prefixes": [
+      "S"
+    ],
+    "seat": "二等座",
+    "activation": "首次使用的当地自然日"
+  },
+  {
+    "id": "three-day",
+    "name": "沿湾三日票",
+    "days": 3,
+    "adult_price": 300,
+    "child_discount": 0.5,
+    "stations": [
+      "港城",
+      "山湾",
+      "东洲"
+    ],
+    "excluded_train_prefixes": [
+      "S"
+    ],
+    "seat": "二等座",
+    "activation": "首次使用的当地自然日"
+  }
+]

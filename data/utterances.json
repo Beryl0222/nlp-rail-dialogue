@@ -1,0 +1,467 @@
+[
+  {
+    "id": "price-0",
+    "text": "三日票多少钱",
+    "family_id": "price-0",
+    "intents": [
+      "price"
+    ],
+    "slots": []
+  },
+  {
+    "id": "price-1",
+    "text": "想了解儿童价",
+    "family_id": "price-1",
+    "intents": [
+      "price"
+    ],
+    "slots": []
+  },
+  {
+    "id": "price-2",
+    "text": "成人票如何收费",
+    "family_id": "price-2",
+    "intents": [
+      "price"
+    ],
+    "slots": []
+  },
+  {
+    "id": "price-3",
+    "text": "价格给我看看",
+    "family_id": "price-3",
+    "intents": [
+      "price"
+    ],
+    "slots": []
+  },
+  {
+    "id": "eligibility-0",
+    "text": "孩子能用这张吗",
+    "family_id": "eligibility-0",
+    "intents": [
+      "eligibility"
+    ],
+    "slots": []
+  },
+  {
+    "id": "eligibility-1",
+    "text": "S开头的车能坐吗",
+    "family_id": "eligibility-1",
+    "intents": [
+      "eligibility"
+    ],
+    "slots": []
+  },
+  {
+    "id": "eligibility-2",
+    "text": "两头都是港城可以吗",
+    "family_id": "eligibility-2",
+    "intents": [
+      "eligibility"
+    ],
+    "slots": []
+  },
+  {
+    "id": "eligibility-3",
+    "text": "通票有没有座位限制",
+    "family_id": "eligibility-3",
+    "intents": [
+      "eligibility"
+    ],
+    "slots": []
+  },
+  {
+    "id": "compare-0",
+    "text": "一日和三日有什么不同",
+    "family_id": "compare-0",
+    "intents": [
+      "compare"
+    ],
+    "slots": []
+  },
+  {
+    "id": "compare-1",
+    "text": "帮我比一下两档",
+    "family_id": "compare-1",
+    "intents": [
+      "compare"
+    ],
+    "slots": []
+  },
+  {
+    "id": "compare-2",
+    "text": "哪种适合住三晚",
+    "family_id": "compare-2",
+    "intents": [
+      "compare"
+    ],
+    "slots": []
+  },
+  {
+    "id": "compare-3",
+    "text": "七日跟三日的区别呢",
+    "family_id": "compare-3",
+    "intents": [
+      "compare"
+    ],
+    "slots": []
+  },
+  {
+    "id": "draft-0",
+    "text": "我想退掉小林那张",
+    "family_id": "draft-0",
+    "intents": [
+      "draft"
+    ],
+    "slots": []
+  },
+  {
+    "id": "draft-1",
+    "text": "替小周准备改期",
+    "family_id": "draft-1",
+    "intents": [
+      "draft"
+    ],
+    "slots": []
+  },
+  {
+    "id": "draft-2",
+    "text": "先拟一份退票申请",
+    "family_id": "draft-2",
+    "intents": [
+      "draft"
+    ],
+    "slots": []
+  },
+  {
+    "id": "draft-3",
+    "text": "把成人票换成三日的",
+    "family_id": "draft-3",
+    "intents": [
+      "draft"
+    ],
+    "slots": []
+  },
+  {
+    "id": "cancel-0",
+    "text": "先别退了",
+    "family_id": "cancel-0",
+    "intents": [
+      "cancel"
+    ],
+    "slots": []
+  },
+  {
+    "id": "cancel-1",
+    "text": "刚才那项不办",
+    "family_id": "cancel-1",
+    "intents": [
+      "cancel"
+    ],
+    "slots": []
+  },
+  {
+    "id": "cancel-2",
+    "text": "取消这一项申请",
+    "family_id": "cancel-2",
+    "intents": [
+      "cancel"
+    ],
+    "slots": []
+  },
+  {
+    "id": "cancel-3",
+    "text": "不要替孩子改期",
+    "family_id": "cancel-3",
+    "intents": [
+      "cancel"
+    ],
+    "slots": []
+  },
+  {
+    "id": "repair-0",
+    "text": "不是小林是小周",
+    "family_id": "repair-0",
+    "intents": [
+      "repair"
+    ],
+    "slots": []
+  },
+  {
+    "id": "repair-1",
+    "text": "刚说错了是后天",
+    "family_id": "repair-1",
+    "intents": [
+      "repair"
+    ],
+    "slots": []
+  },
+  {
+    "id": "repair-2",
+    "text": "我指另外一张票",
+    "family_id": "repair-2",
+    "intents": [
+      "repair"
+    ],
+    "slots": []
+  },
+  {
+    "id": "repair-3",
+    "text": "三日改成七日",
+    "family_id": "repair-3",
+    "intents": [
+      "repair"
+    ],
+    "slots": []
+  },
+  {
+    "id": "unknown-0",
+    "text": "能帮我修手机吗",
+    "family_id": "unknown-0",
+    "intents": [
+      "unknown"
+    ],
+    "slots": []
+  },
+  {
+    "id": "unknown-1",
+    "text": "药吃几片",
+    "family_id": "unknown-1",
+    "intents": [
+      "unknown"
+    ],
+    "slots": []
+  },
+  {
+    "id": "unknown-2",
+    "text": "我想换驾照",
+    "family_id": "unknown-2",
+    "intents": [
+      "unknown"
+    ],
+    "slots": []
+  },
+  {
+    "id": "unknown-3",
+    "text": "教我做点心",
+    "family_id": "unknown-3",
+    "intents": [
+      "unknown"
+    ],
+    "slots": []
+  },
+  {
+    "id": "composite-0",
+    "text": "小林明天从港城去东洲，一日票多少钱",
+    "family_id": "composite-0",
+    "intents": [
+      "price"
+    ],
+    "slots": [
+      {
+        "label": "person",
+        "start": 0,
+        "end": 2,
+        "text": "小林"
+      },
+      {
+        "label": "date",
+        "start": 2,
+        "end": 4,
+        "text": "明天"
+      },
+      {
+        "label": "origin",
+        "start": 5,
+        "end": 7,
+        "text": "港城"
+      },
+      {
+        "label": "destination",
+        "start": 8,
+        "end": 10,
+        "text": "东洲"
+      },
+      {
+        "label": "product",
+        "start": 11,
+        "end": 14,
+        "text": "一日票"
+      }
+    ]
+  },
+  {
+    "id": "composite-1",
+    "text": "小周后天坐S12，通票可不可以",
+    "family_id": "composite-1",
+    "intents": [
+      "eligibility"
+    ],
+    "slots": [
+      {
+        "label": "person",
+        "start": 0,
+        "end": 2,
+        "text": "小周"
+      },
+      {
+        "label": "date",
+        "start": 2,
+        "end": 4,
+        "text": "后天"
+      },
+      {
+        "label": "train",
+        "start": 5,
+        "end": 8,
+        "text": "S12"
+      }
+    ]
+  },
+  {
+    "id": "composite-2",
+    "text": "成人改成三日票，孩子保留一日票",
+    "family_id": "composite-2",
+    "intents": [
+      "draft"
+    ],
+    "slots": [
+      {
+        "label": "person",
+        "start": 0,
+        "end": 2,
+        "text": "成人"
+      },
+      {
+        "label": "product",
+        "start": 4,
+        "end": 7,
+        "text": "三日票"
+      },
+      {
+        "label": "person",
+        "start": 8,
+        "end": 10,
+        "text": "孩子"
+      },
+      {
+        "label": "product",
+        "start": 12,
+        "end": 15,
+        "text": "一日票"
+      }
+    ]
+  },
+  {
+    "id": "composite-3",
+    "text": "不是明天，是后天",
+    "family_id": "composite-3",
+    "intents": [
+      "repair"
+    ],
+    "slots": [
+      {
+        "label": "rejected_date",
+        "start": 2,
+        "end": 4,
+        "text": "明天"
+      },
+      {
+        "label": "date",
+        "start": 6,
+        "end": 8,
+        "text": "后天"
+      }
+    ]
+  },
+  {
+    "id": "composite-4",
+    "text": "小林不用退，只撤销小周的改期",
+    "family_id": "composite-4",
+    "intents": [
+      "cancel"
+    ],
+    "slots": [
+      {
+        "label": "excluded_person",
+        "start": 0,
+        "end": 2,
+        "text": "小林"
+      },
+      {
+        "label": "person",
+        "start": 9,
+        "end": 11,
+        "text": "小周"
+      }
+    ]
+  },
+  {
+    "id": "composite-5",
+    "text": "你先告诉我三日价，暂时不要办理",
+    "family_id": "composite-5",
+    "intents": [
+      "price"
+    ],
+    "slots": [
+      {
+        "label": "product",
+        "start": 5,
+        "end": 7,
+        "text": "三日"
+      }
+    ]
+  },
+  {
+    "id": "composite-6",
+    "text": "到东洲的是孩子，我留在港城",
+    "family_id": "composite-6",
+    "intents": [
+      "repair"
+    ],
+    "slots": [
+      {
+        "label": "destination",
+        "start": 1,
+        "end": 3,
+        "text": "东洲"
+      },
+      {
+        "label": "person",
+        "start": 5,
+        "end": 7,
+        "text": "孩子"
+      },
+      {
+        "label": "location",
+        "start": 11,
+        "end": 13,
+        "text": "港城"
+      }
+    ]
+  },
+  {
+    "id": "composite-7",
+    "text": "从山湾到港城这段能用吗，顺便说下价格",
+    "family_id": "composite-7",
+    "intents": [
+      "eligibility",
+      "price"
+    ],
+    "slots": [
+      {
+        "label": "origin",
+        "start": 1,
+        "end": 3,
+        "text": "山湾"
+      },
+      {
+        "label": "destination",
+        "start": 4,
+        "end": 6,
+        "text": "港城"
+      }
+    ]
+  }
+]

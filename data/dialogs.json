@@ -1,0 +1,49 @@
+[
+  {
+    "id": "family-a",
+    "today": "2026-11-26",
+    "timezone": "Asia/Shanghai",
+    "travellers": [
+      {
+        "id": "adult-a",
+        "name": "小林",
+        "child": false
+      },
+      {
+        "id": "child-a",
+        "name": "小周",
+        "child": true
+      }
+    ],
+    "tickets": [
+      {
+        "id": "ticket-a",
+        "traveller": "adult-a",
+        "product": "one-day"
+      },
+      {
+        "id": "ticket-b",
+        "traveller": "child-a",
+        "product": null
+      }
+    ],
+    "turns": [
+      {
+        "id": "t1",
+        "text": "明天小林和小周从港城去东洲，这个票孩子能用吗？"
+      },
+      {
+        "id": "t2",
+        "text": "帮小林先拟退掉一日票，小周那个先别动。"
+      },
+      {
+        "id": "t3",
+        "text": "先别退，我问的是后天的，孩子跟我坐但他没买通票。"
+      },
+      {
+        "id": "t4",
+        "text": "刚才“他”指小周。七日那种有吗？"
+      }
+    ]
+  }
+]
